@@ -36,8 +36,8 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-![GitHub Logo](./output1.png)
-![GitHub Logo](./output2.png)
-![GitHub Logo](./output3.png)
+![GitHub Logo](https://github.com/Hemapriya-2004/FindMaximum/blob/6bf1335d90336426cdc5ade92e8a2dd0d80f8b21/output1.PNG)
+![GitHub Logo](https://github.com/Hemapriya-2004/FindMaximum/blob/6bf1335d90336426cdc5ade92e8a2dd0d80f8b21/output2.PNG)
+![GitHub Logo](https://github.com/Hemapriya-2004/FindMaximum/blob/6bf1335d90336426cdc5ade92e8a2dd0d80f8b21/output3.PNG)
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
